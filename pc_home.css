@@ -14,12 +14,19 @@
 */
 
 /* Body Styles */
-
+body{ 
+   max-width: 960px;
+   min-width: 640px;
+   width: 95% 
+}
 
 
 /* Body Header Styles */
 
-
+body > header > img { 
+   display: blaock; 
+   width: 100%;
+}
 
 
 /* Horizontal Navigation Styles */
